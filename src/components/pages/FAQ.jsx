@@ -36,7 +36,7 @@ function FAQ() {
                     <AccordionItem value="item-3">
                         <AccordionTrigger className="text-xl text-yellow-500">Why is Teacher A not on the list?</AccordionTrigger>
                         <AccordionContent className="text-lg text-justify">
-                        You can nominate your favorite educator by filling out this form. <a className="underline" href="" target="_blank" rel="noreferrer">Click here</a>.
+                        You can nominate your favorite educator by filling out this form. <a className="underline" href="https://forms.gle/y5kBhp6qa1ejWV3T8" target="_blank" rel="noreferrer">Click here</a>.
                         We will add them to the web if there are enough nominations.
                         </AccordionContent>
                     </AccordionItem>
